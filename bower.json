@@ -1,0 +1,21 @@
+{
+  "name": "pong",
+  "description": "pong game created with phaser.io",
+  "main": "bower.json",
+  "authors": [
+    "Jonathan Sigg"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "^3.2.1"
+  }
+}
